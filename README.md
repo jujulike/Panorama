@@ -1,4 +1,4 @@
-# official
+# Panorama
 
 ## Project setup
 ```
